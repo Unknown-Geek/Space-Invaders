@@ -30,4 +30,4 @@ The code is structured into one main script. It starts by importing necessary li
 - `os` for interacting with the operating system.
 - `mixer` from pygame for adding background music to the game.
 
-"Space Invaders" is an exciting and engaging Python-based game that offers hours of fun. Whether you're a fan of classic arcade games or just love good side-scrolling games, "Space Invaders" is sure to keep you entertained! So why wait? Start your cosmic adventure today! 😊
+"Space Invaders" is an exciting and engaging Python-based game that offers hours of fun. Whether you're a fan of classic arcade games or just love good side-scrolling games, "Space Invaders" is sure to keep you entertained! So why wait? Start your cosmic adventure today! :)
